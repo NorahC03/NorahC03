@@ -7,7 +7,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Deep Spotify Playing" width="550" />](https://open.spotify.com/playlist/6pdUFy0XkmsTfeoO3eEhPs?si=732bec2cd774441b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Arin Spotify Playing" width="550" />](https://open.spotify.com/playlist/6pdUFy0XkmsTfeoO3eEhPs?si=732bec2cd774441b)
 
 <!---
 deep846/deep846 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
